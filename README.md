@@ -5,7 +5,7 @@
 
 
 <p style="font-family: Georgia, serif; font-size: 16px; color: #2c3e50;">
-Hey this is Atul, a student at IIIT Sri City and this page is featured by HAKARI!!!
+Hey this is Atul, a student at IIIT Sri City and this page is featuring HAKARI!!!
 
 </p>
 

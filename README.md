@@ -1,7 +1,7 @@
 <h1 style="font-family: Georgia, serif; ;font-size: 56px; color: #2c3e50;">/Atul Ravi</h1>
 
 
-![kinji-hakari](https://github.com/user-attachments/assets/2eac583e-4d80-4d04-a803-4d2dd19cd0fd)
+![Header Image][kinji-hakari](https://github.com/user-attachments/assets/2eac583e-4d80-4d04-a803-4d2dd19cd0fd)
 
 
 <p style="font-family: Georgia, serif; font-size: 16px; color: #2c3e50;">

@@ -14,6 +14,7 @@ Hey this is Atul, a student at IIIT Sri City and this page is featuring HAKARI!!
   <li><strong>ONE PIECE</strong>
   <li><strong>Bleach</strong>
   <li><strong>Attack on Titan</strong>
+  <li><strong>Dragon Ball</strong>
 </ul>
 
 <h2 style="font-family: Georgia, serif; color: #34495e;">/Random Facts About Me </h2>
